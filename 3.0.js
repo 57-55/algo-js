@@ -1,0 +1,2 @@
+let classArray=["Anthony", "Axel", "Benoît", "Daniela", "Doriano", "Dylan", "Eddy", "Guillaume", "Hazem", "Julien", "Julien", "Kamilla", "Luca", "Quentin", "Rinaldo", "Sélim", "Sophie", "Stéphanie", "Titouan", "Xavier", "Xavier", "Vincent"];
+for (let elem of classArray) {console.log(elem);}
